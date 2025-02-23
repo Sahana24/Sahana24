@@ -5,19 +5,18 @@
 
 - 🔭 &nbsp; <strong>MLOps Engineer (Work Student)</strong> at Fraunhofer IEE, Germany
 - 🎓 &nbsp; Pursuing a Master’s in Computer Science at <strong>RPTU Kaiserslautern – Landau</strong>
-- 🤔 &nbsp; Exploring scalable ML workflows with <strong>Docker</strong>, <strong>Grafana</strong>, <strong>TimescaleDB</strong>
-- 💬 &nbsp; Ask me about <strong>Deep Learning, MLOps, and Data Engineering</strong>
+- 🤔 &nbsp; Exploring AI-driven solutions with <strong>Deep Learning</strong>, <strong>Computer Vision</strong>, <strong>Affective Computing</strong>
+- 💬 &nbsp; Ask me about <strong>Deep Learning, Neural Networks, and AI-driven Automation</strong>
 - ☕ &nbsp; Fueled by coffee, code, and curiosity!
 
 ---
 
 <h3>🛠 Tech Stack</h3>
 
-- <strong>Languages & Frameworks</strong>: Python | Java | C++ | Flask | PyTorch | TensorFlow
-- <strong>ML & Data</strong>: Machine Learning | Deep Learning | Computer Vision | Affective Computing
-- <strong>Cloud & DevOps</strong>: AWS (Redshift, Glue, Lambda, S3, SQS, SNS) | Docker | Grafana | Loki
-- <strong>Databases & Visualization</strong>: PostgreSQL | MySQL | TimescaleDB | Tableau | Power BI
-
+- <strong>Languages & Frameworks</strong>: Python | Java | C++ | Flask | PyTorch | TensorFlow | Keras
+- <strong>Machine Learning & LLMs</strong>: Deep Learning | Computer Vision | Affective Computing | LLMs | AutoGen | Groq | LangChain
+- <strong>Cloud & DevOps</strong>: AWS (Redshift, Glue, Lambda, S3, SQS, SNS) | Docker | Grafana | Loki 
+- <strong>Databases & Visualization</strong>: PostgreSQL | MySQL | TimescaleDB | Tableau | Power BI | AWS Quicksight
 ---
 
 <h3>🏆 Achievements & Highlights</h3>
@@ -33,6 +32,11 @@
     <a href="https://github.com/Sahana24/ai-invoice-processing">
       <strong>ai-invoice-processing</strong>
     </a>: A project showcasing AI-driven invoice data extraction and automation.
+  </li>
+  <li>
+    <a href="https://github.com/Sahana24/multi-agent-meal-planning">
+      <strong>Multi-Agent Meal Planning System</strong>
+    </a>: A Flask-based AI system that generates meal plans based on dietary preferences, budget, and calorie goals.
   </li>
 </ul>
 
