@@ -3,18 +3,19 @@
 
 <h3> 👩‍💻 About Me </h3>
 
-- 🔭 &nbsp; <strong>MLOps Engineer (Work Student)</strong> at Fraunhofer IEE, Germany
-- 🎓 &nbsp; Pursuing a Master’s in Computer Science at <strong>RPTU Kaiserslautern – Landau</strong>
-- 🤔 &nbsp; Exploring AI-driven solutions with <strong>Deep Learning</strong>, <strong>Computer Vision</strong>, <strong>Affective Computing</strong>
-- 💬 &nbsp; Ask me about <strong>Deep Learning, Neural Networks, and AI-driven Automation</strong>
-- ☕ &nbsp; Fueled by coffee, code, and curiosity!
+- 🎓 &nbsp; Master's student in Computer Science at <strong>RPTU Kaiserslautern – Landau</strong>  
+- 🧠 &nbsp; Passionate about building <strong>human-aware AI</strong> systems that are explainable, adaptive, and trustworthy  
+- 💡 &nbsp; Experienced in <strong>Deep Learning</strong>, <strong>Emotion Recognition</strong>, <strong>Meta-Learning</strong>, and <strong>AI for Time-Series Forecasting</strong>  
+- 🛠️ &nbsp; Previously contributed to real-world AI at <strong>Capgemini</strong>, <strong>Fraunhofer IEE</strong>, and research at <strong>DFKI</strong>  
+- 🎤 &nbsp; Presenting at <strong>HCI International 2025</strong> on Human-in-the-Loop Emotion Annotation  
+- ☕ &nbsp; Fueled by curiosity, creativity, and coffee 
 
 ---
 
 <h3>🛠 Tech Stack</h3>
 
 - <strong>Languages & Frameworks</strong>: Python | Java | C++ | Flask | PyTorch | TensorFlow | Keras
-- <strong>Machine Learning & LLMs</strong>: Deep Learning | Computer Vision | Affective Computing | LLMs | AutoGen | Groq | LangChain
+- <strong>Machine Learning & LLMs</strong>: Deep Learning | Computer Vision | Affective Computing | LLMs | AutoGen | Groq | LangChain | RAG
 - <strong>Cloud & DevOps</strong>: AWS (Redshift, Glue, Lambda, S3, SQS, SNS) | Docker | Grafana | Loki 
 - <strong>Databases & Visualization</strong>: PostgreSQL | MySQL | TimescaleDB | Tableau | Power BI | AWS Quicksight
 ---
