@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Sahana <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="Photo of me coding" src="https://github.com/Sahana24/Sahana24/blob/main/image.webp" width="380"/>
+<img align="right" alt="Photo of me coding" src="https://github.com/Sahana24/Sahana24/blob/main/image.webp" width="320" style="margin-top: -10px;"/>
 
 <h3> 👩‍💻 About Me </h3>
 
