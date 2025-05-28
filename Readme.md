@@ -14,9 +14,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- <strong>Languages & Frameworks</strong>: Python | Java | C++ | Flask | PyTorch | TensorFlow | Keras
+- <strong>Languages & Frameworks</strong>: Python | Java | C++ | Flask | PyTorch | TensorFlow | Keras | Streamlit
 - <strong>Machine Learning & LLMs</strong>: Deep Learning | Computer Vision | Affective Computing | LLMs | AutoGen | Groq | LangChain | RAG
-- <strong>Cloud & DevOps</strong>: AWS (Redshift, Glue, Lambda, S3, SQS, SNS) | Docker | Grafana | Loki 
+- <strong>Cloud & DevOps</strong>: AWS (Redshift, Glue, Lambda, S3, SQS, SNS) | Docker | Grafana | Loki | Github Actions | KubeRay | MiniKube
 - <strong>Databases & Visualization</strong>: PostgreSQL | MySQL | TimescaleDB | Tableau | Power BI | AWS Quicksight
 ---
 
@@ -32,12 +32,17 @@
   <li>
     <a href="https://github.com/Sahana24/ai-invoice-processing">
       <strong>ai-invoice-processing</strong>
-    </a>: A project showcasing AI-driven invoice data extraction and automation.
+    </a>: An AI-supported tool that fetches invoice emails, extracts key details using Google Vision API, and stores them in MongoDB. Includes a Flask dashboard to review, edit, and track invoices with overdue or recurring status.
   </li>
   <li>
     <a href="https://github.com/Sahana24/multi-agent-meal-planning">
       <strong>Multi-Agent Meal Planning System</strong>
-    </a>: A Flask-based AI system that generates meal plans based on dietary preferences, budget, and calorie goals.
+    </a>: An AI-powered system that uses specialized agents to generate meal plans based on diet, budget, and calorie goals. Built with Flask, it supports multiple diets and creates a consolidated shopping list from the selected meals.
+  </li>
+  <li>
+    <a href="https://github.com/Sahana24/stylized-rag">
+      <strong>Stylized RAG: AI-Powered Text Style Transformer </strong>
+    </a>: A stylized Retrieval-Augmented Generation (RAG) application built using Streamlit, LangChain, and Wikipedia, designed to deliver aesthetically engaging responses. It supports dynamic retrieval pipelines and integrates creative response formatting for enhanced readability and user interaction.
   </li>
 </ul>
 
@@ -49,7 +54,7 @@
     <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sahana-yadnakudige-subramanya-93b15015a" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/sahanays/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
   </a>
 </p>
