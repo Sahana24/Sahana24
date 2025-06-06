@@ -30,9 +30,14 @@
 <h3>✨ Featured Repositories</h3>
 <ul>
   <li>
-    <a href="https://github.com/Sahana24/ai-invoice-processing">
-      <strong>ai-invoice-processing</strong>
-    </a>: An AI-supported tool that fetches invoice emails, extracts key details using Google Vision API, and stores them in MongoDB. Includes a Flask dashboard to review, edit, and track invoices with overdue or recurring status.
+  <a href="https://github.com/Sahana24/ai_agent_solutions">
+    <strong>English Accent Classifier</strong>
+  </a>: A Streamlit-based tool that analyzes spoken English from public videos to classify accents like American, British, or Indian using Whisper and SpeechBrain. Outputs include a confidence score and visual summary, ideal for screening or language evaluation.
+  </li>
+  <li>
+    <a href="https://github.com/Sahana24/stylized-rag">
+      <strong>Stylized RAG: AI-Powered Text Style Transformer </strong>
+    </a>: A stylized Retrieval-Augmented Generation (RAG) application built using Streamlit, LangChain, and Wikipedia, designed to deliver aesthetically engaging responses. It supports dynamic retrieval pipelines and integrates creative response formatting for enhanced readability and user interaction.
   </li>
   <li>
     <a href="https://github.com/Sahana24/multi-agent-meal-planning">
@@ -40,10 +45,10 @@
     </a>: An AI-powered system that uses specialized agents to generate meal plans based on diet, budget, and calorie goals. Built with Flask, it supports multiple diets and creates a consolidated shopping list from the selected meals.
   </li>
   <li>
-    <a href="https://github.com/Sahana24/stylized-rag">
-      <strong>Stylized RAG: AI-Powered Text Style Transformer </strong>
-    </a>: A stylized Retrieval-Augmented Generation (RAG) application built using Streamlit, LangChain, and Wikipedia, designed to deliver aesthetically engaging responses. It supports dynamic retrieval pipelines and integrates creative response formatting for enhanced readability and user interaction.
-  </li>
+    <a href="https://github.com/Sahana24/ai-invoice-processing">
+      <strong>ai-invoice-processing</strong>
+    </a>: An AI-supported tool that fetches invoice emails, extracts key details using Google Vision API, and stores them in MongoDB. Includes a Flask dashboard to review, edit, and track invoices with overdue or recurring status.
+  </li>  
 </ul>
 
 ---
