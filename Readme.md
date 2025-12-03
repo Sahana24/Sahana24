@@ -22,7 +22,7 @@
 
 <h3>🏆 Achievements & Highlights</h3>
 
-- <strong>Conference Acceptance:</strong> HCI International 2025 (Gothenburg, Sweden)
+- <strong>Conference:</strong> HCI International 2025 (Gothenburg, Sweden)
 - <strong>Publication:</strong> International Journal of Research in Engineering, Science and Management (Vol. 2, Issue 8)
 
 ---
