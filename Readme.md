@@ -21,8 +21,8 @@
 
 <h3>📄 List of Publications</h3>
 
-- <strong>Conference Paper:</strong> <a href="https://link.springer.com/chapter/10.1007/978-3-031-93864-1_12">HCI International 2025</a> (Gothenburg, Sweden)
-- <strong>Journal Paper:</strong> <a href="https://www.ijresm.com/Vol.2_2019/Vol2_Iss8_August19/IJRESM_V2_I8_14.pdf">International Journal of Research in Engineering, Science and Management</a> (Vol. 2, Issue 8)
+- <a href="https://link.springer.com/chapter/10.1007/978-3-031-93864-1_12"><strong>Human-in-the-Loop Annotation for Image-Based Engagement Estimation</strong></a> - HCI International 2025 (Gothenburg, Sweden)
+- <a href="https://www.ijresm.com/Vol.2_2019/Vol2_Iss8_August19/IJRESM_V2_I8_14.pdf"><strong>Stress Detection using Deep Learning and IOT</strong></a> - International Journal of Research in Engineering, Science and Management (Vol. 2, Issue 8)
 
 <h3>✨ Featured Repositories</h3>
 <ul>
