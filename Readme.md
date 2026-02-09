@@ -3,14 +3,13 @@
 
 <h3> 👩‍💻 About Me </h3>
 
-- 🎓 &nbsp; Master's student in Computer Science at <strong>RPTU Kaiserslautern – Landau</strong>  
-- 🧠 &nbsp; Passionate about building <strong>human-aware AI</strong> systems that are explainable, adaptive, and trustworthy  
-- 💡 &nbsp; Experienced in <strong>Deep Learning</strong>, <strong>Emotion Recognition</strong>, <strong>Meta-Learning</strong>, and <strong>AI for Time-Series Forecasting</strong>  
-- 🛠️ &nbsp; Previously contributed to real-world AI at <strong>Capgemini</strong>, <strong>Fraunhofer IEE</strong>, and research at <strong>DFKI</strong>  
-- 🎤 &nbsp; Presenting at <strong>HCI International 2025</strong> on Human-in-the-Loop Emotion Annotation  
-- ☕ &nbsp; Fueled by curiosity, creativity, and coffee 
-
----
+- 🔬 &nbsp; Researcher at <strong>Heinz Nixdorf Institute/DICE Group, Paderborn University</strong>
+- 🎓 &nbsp; Master's in Computer Science from <strong>RPTU Kaiserslautern – Landau</strong>
+- 🧠 &nbsp; Passionate about building <strong>human-aware AI systems</strong> that are explainable, adaptive, and trustworthy
+- 💡 &nbsp; Researching <strong>Retrieval-Augmented Generation (RAG) evaluation methodologies</strong>, comparing traditional metrics with LLM-as-judge approaches
+- 🛠️ &nbsp; Experienced in <strong>Deep Learning, LLM Evaluation, Emotion Recognition,</strong> and <strong>Meta-Learning</strong>
+- 🏢 &nbsp; Previously contributed to real-world AI at <strong>Capgemini, Fraunhofer IEE,</strong> and research at <strong>DFKI</strong>
+- ☕ &nbsp; Fueled by curiosity, creativity, and coffee
 
 <h3>🛠 Tech Stack</h3>
 
@@ -20,12 +19,10 @@
 - <strong>Databases & Visualization</strong>: PostgreSQL | MySQL | TimescaleDB | Tableau | Power BI | AWS Quicksight
 ---
 
-<h3>🏆 Achievements & Highlights</h3>
+<h3>📄 List of Publications</h3>
 
-- <strong>Conference:</strong> HCI International 2025 (Gothenburg, Sweden)
-- <strong>Publication:</strong> International Journal of Research in Engineering, Science and Management (Vol. 2, Issue 8)
-
----
+- <strong>Conference Paper:</strong> <a href="https://link.springer.com/chapter/10.1007/978-3-031-93864-1_12">HCI International 2025</a> (Gothenburg, Sweden)
+- <strong>Journal Paper:</strong> <a href="https://www.ijresm.com/Vol.2_2019/Vol2_Iss8_August19/IJRESM_V2_I8_14.pdf">International Journal of Research in Engineering, Science and Management</a> (Vol. 2, Issue 8)
 
 <h3>✨ Featured Repositories</h3>
 <ul>
